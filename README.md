@@ -1,3 +1,3 @@
 # Pomodoro-Partner-Project
 06:00 pm
-My partner project with my good frined RObert starts today!
+My partner project with my good friened Robert starts today! We literally got it all done within an hour and a half of working on it tho RObert was quick to type a lot of it... we did discuss the algorithms and would bug test back and forth. I will address CSS tomorrow to make up for the amount of typing I didn't do...
