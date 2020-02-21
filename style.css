@@ -1,0 +1,131 @@
+body {
+    background-color:  #333333;
+}
+
+.container {
+    display: flex;
+    margin: 3%;
+    width: 800px;
+    background-color:  black;
+}
+
+#Settings {
+    border: 5px solid black;
+    margin: auto;
+    width: 800px;
+    background-color:  black;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 250%;
+    color: white;
+}
+
+#setTimes {
+    display: flex;
+    justify-content: space-between;
+}
+
+#sessionButtons {
+    font-size: 200%;
+    display: flex;
+    margin-left: 75px;
+    color: white;
+    height: 100px;
+}
+
+#sessionTimeDisplay {
+    padding-top: 35px;
+}
+
+#breakTimeDisplay {
+    padding-top: 35px;
+}
+
+#breakButtons {
+    font-size: 200%;
+    display: flex;
+    margin-right: 75px;
+    color: white;
+    height: 100px;
+}
+
+#timer {
+    border: 5px solid black;
+    width: 800px;
+    margin: auto;
+    background-color:  black;
+}
+
+#clock {
+    margin: auto;
+    font-size: 1000%;
+    width: 620px;
+    color: white;
+    text-align: center;
+}
+
+#buttonRow {
+    display: flex;
+    border: 5px solid black;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.settingButton {
+    background-color:  black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    outline: none;
+}
+
+#playPauseButton {
+    background-color:  black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    outline: none;
+    min-width:41.5px;
+}
+
+#stopButton{
+    background-color:  black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    outline: none;
+}
+
+#resetButton{
+    background-color:  black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    outline: none;
+}

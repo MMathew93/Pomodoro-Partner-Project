@@ -35,7 +35,7 @@ function timerLoop(){
 function playPause(){
     if (isPaused== true){
     isPaused= false;
-    playPauseButton.innerHTML= '&#9611 &#9611'
+    playPauseButton.innerHTML= '&#10074;&#10074'
     }else{
         isPaused= true;
         playPauseButton.innerHTML= '&#9658'
